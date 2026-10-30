@@ -1,0 +1,3 @@
+# OpsPilot — simple AI client
+python-dotenv
+httpx
