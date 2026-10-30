@@ -1,0 +1,32 @@
+# Binaries
+bin/
+*.exe
+
+# Go
+/vendor/
+*.sum
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yaml
+
+# Kubernetes
+.kube/
+kind-*kubeconfig*
+
+# IDE
+.vscode/
