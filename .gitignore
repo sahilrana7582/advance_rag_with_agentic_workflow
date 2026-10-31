@@ -2,6 +2,8 @@
 bin/
 *.exe
 
+*.env
+
 # Go
 /vendor/
 *.sum
